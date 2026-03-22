@@ -6,6 +6,6 @@ appVersion: "0.9.18"
 type: application
 
 dependencies:
-  - name: external-secrets
-    version: "0.9.18"
-    repository: https://charts.external-secrets.io
+- name: external-secrets
+  version: "0.9.18"
+  repository: https://charts.external-secrets.io
